@@ -24,7 +24,8 @@ function Header() {
         </h1>
       </Title>
       <Tab to="/all">
-        <h1>Notes</h1>
+        {/* <h1>Notes</h1> */}
+        <img src="notes.png" alt="book" height={45} width={45} />
       </Tab>
     </header>
   );
