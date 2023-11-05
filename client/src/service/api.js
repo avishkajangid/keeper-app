@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "http://localhost:8000";
+const URL = "https://keeper-app-ten-umber.vercel.app";
 
 export const addNote = async (note) => {
   try {
